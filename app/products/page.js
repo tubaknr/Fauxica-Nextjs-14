@@ -6,6 +6,8 @@ export default function Home() {
     <>
       <div className="overlay"></div>
       <div className="wrapper">
+        
+
         <main>
           <div className="left-col">
             <h1>Quality apparel without the price tag</h1>
